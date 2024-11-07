@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @ThiliC, a Business IT undergraduate student at Haaga-Helia UAS in Helsinki, Finland. Originally from Sri Lanka, I previously studied and worked in the Mechanical Engineering field before transitioning to IT and cloud services.
+- 👀 I’m interested in cloud computing, ICT infrastructure, and innovative tech solutions.
+- 🌱 I’m currently learning about AWS cloud services, network management, and serverless architectures.
+- 💞️ I’m looking to collaborate on projects related to cloud solutions, networking, and static website hosting
+- 📫 How to reach me: Feel free to connect via LinkedIn or GitHub.
+- ⚡ Fun fact: I’m a tea enthusiast who loves reading books and exploring nature!
